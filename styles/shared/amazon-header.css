@@ -1,4 +1,5 @@
 .amazon-header {
+  z-index: 2;
   background-color: rgb(19, 25, 33);
   color: white;
   padding-left: 15px;

@@ -16,6 +16,7 @@
     <!-- Here are the CSS files for this page. -->
     <link rel="stylesheet" href="styles/shared/general.css">
     <link rel="stylesheet" href="styles/shared/amazon-header.css">
+    <link rel="stylesheet" href="styles/shared/amazon-sidebar.css">
     <link rel="stylesheet" href="styles/pages/amazon.css">
   </head>
   <body>
@@ -45,12 +46,35 @@
 
         <a class="cart-link header-link" href="checkout.html">
           <img class="cart-icon" src="images/icons/cart-icon.png">
-          <div class="cart-quantity">3</div>
+          <div class="cart-quantity js-cart-quantity">0</div>
           <div class="cart-text">Cart</div>
         </a>
       </div>
     </div>
     
+    <!-- Sidebar -->
+    <nav class="sidebar">
+        <div class="sidebar-link">
+            <div class="sidebar-name">Price</div>
+            <label class="rating-option"><input type="radio" name="price" value="all" checked>All</label>
+            <label class="rating-option"><input type="radio" name="price" value="10">&lt;10$</label>
+            <label class="rating-option"><input type="radio" name="price" value="50">&lt;50$</label>
+            <label class="rating-option"><input type="radio" name="price" value="100">&lt;100$</label>
+        </div>
+        <div class="sidebar-link">
+            <div class="sidebar-name">Customer Reviews</div>
+            <label class="rating-option"><input type="radio" name="reviews" value="all" checked>All</label>
+            <label class="rating-option"><input type="radio" name="reviews" value="4"><img class="product-rating-stars" src="images/ratings/rating-40.png"><span>& up</span></label>
+            <label class="rating-option"><input type="radio" name="reviews" value="3"><img class="product-rating-stars" src="images/ratings/rating-30.png"><span>& up</span></label>
+            <label class="rating-option"><input type="radio" name="reviews" value="2"><img class="product-rating-stars" src="images/ratings/rating-20.png"><span>& up</span></label>
+            <label class="rating-option"><input type="radio" name="reviews" value="1"><img class="product-rating-stars" src="images/ratings/rating-10.png"><span>& up</span></label>
+        </div>
+        <div class="sidebar-link">
+            <div class="sidebar-name">Prime Programs</div>
+            <label><input type="checkbox">Prime Exclusive</label>
+        </div>
+    </nav>
+
     <div class="main">
       <div class="products-grid js-products-grid"></div>
     </div>

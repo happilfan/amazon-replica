@@ -1,0 +1,28 @@
+.sidebar {
+    z-index: 1;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    top: 55px;
+    width: 190px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.sidebar-link {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 6px;
+    padding-bottom: 20px;
+}
+
+.rating-option {
+    display: flex;
+    cursor: pointer;
+}
+
+.sidebar-name {
+    font-weight: bold;
+}
