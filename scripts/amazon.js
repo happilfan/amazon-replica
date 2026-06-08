@@ -1,3 +1,5 @@
+import {cart} from '../data/cart.js';
+
 function renderProducts(productsToRender) {
     let productsHTML = '';
 
