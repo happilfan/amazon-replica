@@ -80,7 +80,7 @@ export const products = [
     image: "images/products/6-piece-non-stick-baking-set.webp",
     name: "6-Piece Nonstick, Carbon Steel Oven Bakeware Baking Set",
     rating: {
-      stars: 4.5,
+      stars: 1.5,
       count: 175
     },
     priceCents: 3499,
@@ -94,7 +94,7 @@ export const products = [
     image: "images/products/plain-hooded-fleece-sweatshirt-yellow.jpg",
     name: "Plain Hooded Fleece Sweatshirt",
     rating: {
-      stars: 4.5,
+      stars: 2.5,
       count: 317
     },
     priceCents: 2400,
@@ -109,7 +109,7 @@ export const products = [
     image: "images/products/luxury-tower-set-6-piece.jpg",
     name: "Luxury Towel Set - Graphite Gray",
     rating: {
-      stars: 4.5,
+      stars: 3.5,
       count: 144
     },
     priceCents: 3599,
@@ -140,7 +140,7 @@ export const products = [
     image: "images/products/knit-athletic-sneakers-gray.jpg",
     name: "Waterproof Knit Athletic Sneakers - Gray",
     rating: {
-      stars: 4,
+      stars: 5,
       count: 89
     },
     priceCents: 3390,
@@ -155,7 +155,7 @@ export const products = [
     image: "images/products/women-chiffon-beachwear-coverup-black.jpg",
     name: "Women's Chiffon Beachwear Cover Up - Black",
     rating: {
-      stars: 4.5,
+      stars: 1.5,
       count: 235
     },
     priceCents: 2070,
@@ -174,7 +174,7 @@ export const products = [
     image: "images/products/round-sunglasses-black.jpg",
     name: "Round Sunglasses",
     rating: {
-      stars: 4.5,
+      stars: 2.5,
       count: 30
     },
     priceCents: 1560,
@@ -188,7 +188,7 @@ export const products = [
     image: "images/products/women-beach-sandals.jpg",
     name: "Women's Two Strap Buckle Sandals - Tan",
     rating: {
-      stars: 4.5,
+      stars: 3.5,
       count: 562
     },
     priceCents: 2499,
@@ -220,7 +220,7 @@ export const products = [
     image: "images/products/men-slim-fit-summer-shorts-gray.jpg",
     name: "Men's Slim-Fit Summer Shorts",
     rating: {
-      stars: 4,
+      stars: 5,
       count: 160
     },
     priceCents: 1699,
@@ -235,7 +235,7 @@ export const products = [
     image: "images/products/electric-glass-and-steel-hot-water-kettle.webp",
     name: "Electric Glass and Steel Hot Tea Water Kettle - 1.7-Liter",
     rating: {
-      stars: 5,
+      stars: 1,
       count: 846
     },
     priceCents: 3074,
@@ -250,7 +250,7 @@ export const products = [
     image: "images/products/facial-tissue-2-ply-18-boxes.jpg",
     name: "Ultra Soft Tissue 2-Ply - 18 Box",
     rating: {
-      stars: 4,
+      stars: 2,
       count: 99
     },
     priceCents: 2374,
@@ -267,7 +267,7 @@ export const products = [
     image: "images/products/straw-sunhat.webp",
     name: "Straw Lifeguard Sun Hat",
     rating: {
-      stars: 4,
+      stars: 3,
       count: 215
     },
     priceCents: 2200,
@@ -317,7 +317,7 @@ export const products = [
     image: "images/products/bathroom-rug.jpg",
     name: "Bathroom Bath Rug Mat 20 x 31 Inch - Grey",
     rating: {
-      stars: 4.5,
+      stars: 1.5,
       count: 119
     },
     priceCents: 1250,
@@ -332,7 +332,7 @@ export const products = [
     image: "images/products/women-knit-ballet-flat-black.jpg",
     name: "Women's Knit Ballet Flat",
     rating: {
-      stars: 4,
+      stars: 2,
       count: 326
     },
     priceCents: 2640,
@@ -348,7 +348,7 @@ export const products = [
     image: "images/products/men-golf-polo-t-shirt-blue.jpg",
     name: "Men's Regular-Fit Quick-Dry Golf Polo Shirt",
     rating: {
-      stars: 4.5,
+      stars: 3.5,
       count: 2556
     },
     priceCents: 1599,
@@ -382,7 +382,7 @@ export const products = [
     image: "images/products/duvet-cover-set-blue-twin.jpg",
     name: "Duvet Cover Set with Zipper Closure",
     rating: {
-      stars: 4,
+      stars: 5,
       count: 456
     },
     priceCents: 2399,
@@ -399,7 +399,7 @@ export const products = [
     image: "images/products/women-chunky-beanie-gray.webp",
     name: "Women's Chunky Cable Beanie - Gray",
     rating: {
-      stars: 5,
+      stars: 1,
       count: 83
     },
     priceCents: 1250,
@@ -417,7 +417,7 @@ export const products = [
     image: "images/products/men-chino-pants-beige.jpg",
     name: "Men's Classic-fit Pleated Chino Pants",
     rating: {
-      stars: 4.5,
+      stars: 2.5,
       count: 9017
     },
     priceCents: 2290,
@@ -432,7 +432,7 @@ export const products = [
     image: "images/products/men-athletic-shoes-green.jpg",
     name: "Men's Athletic Sneaker",
     rating: {
-      stars: 4,
+      stars: 3,
       count: 229
     },
     priceCents: 3890,
@@ -448,7 +448,7 @@ export const products = [
     image: "images/products/men-navigator-sunglasses-brown.jpg",
     name: "Men's Navigator Sunglasses Pilot",
     rating: {
-      stars: 3.5,
+      stars: 4.5,
       count: 42
     },
     priceCents: 1690,
@@ -478,7 +478,7 @@ export const products = [
     image: "images/products/vanity-mirror-silver.jpg",
     name: "Vanity Mirror with Heavy Base - Chrome",
     rating: {
-      stars: 4.5,
+      stars: 1.5,
       count: 130
     },
     priceCents: 1649,
@@ -494,7 +494,7 @@ export const products = [
     image: "images/products/women-french-terry-fleece-jogger-camo.jpg",
     name: "Women's Fleece Jogger Sweatpant",
     rating: {
-      stars: 4.5,
+      stars: 2.5,
       count: 248
     },
     priceCents: 2400,
@@ -511,7 +511,7 @@ export const products = [
     image: "images/products/double-elongated-twist-french-wire-earrings.webp",
     name: "Double Oval Twist French Wire Earrings - Gold",
     rating: {
-      stars: 4.5,
+      stars: 3.5,
       count: 117
     },
     priceCents: 2400,
@@ -555,7 +555,7 @@ export const products = [
     image: "images/products/blackout-curtains-black.jpg",
     name: "Blackout Curtains Set 42 x 84-Inch - Black, 2 Panels",
     rating: {
-      stars: 4.5,
+      stars: 1.5,
       count: 363
     },
     priceCents: 3099,
@@ -569,7 +569,7 @@ export const products = [
     image: "images/products/cotton-bath-towels-teal.webp",
     name: "100% Cotton Bath Towels - 2 Pack, Light Teal",
     rating: {
-      stars: 4.5,
+      stars: 2.5,
       count: 93
     },
     priceCents: 2110,
@@ -584,7 +584,7 @@ export const products = [
     image: "images/products/knit-athletic-sneakers-pink.webp",
     name: "Waterproof Knit Athletic Sneakers - Pink",
     rating: {
-      stars: 4,
+      stars: 3,
       count: 89
     },
     priceCents: 3390,
@@ -631,7 +631,7 @@ export const products = [
     image: "images/products/kitchen-paper-towels-30-pack.jpg",
     name: "2-Ply Kitchen Paper Towels - 30 Pack",
     rating: {
-      stars: 4.5,
+      stars: 1.5,
       count: 1045
     },
     priceCents: 5799,
@@ -646,7 +646,7 @@ export const products = [
     image: "images/products/men-cozy-fleece-zip-up-hoodie-red.jpg",
     name: "Men's Full-Zip Hooded Fleece Sweatshirt",
     rating: {
-      stars: 4.5,
+      stars: 2.5,
       count: 3157
     },
     priceCents: 2400,
